@@ -8,7 +8,6 @@
 
   <div class="container">
     <x-network_connections />
-
   </div>
 
 @endsection
